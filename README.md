@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kevdacosta07
+- 👀 I’m interested in learning how to make applications
+- 🌱 I’m currently learning Java
+- 📫 How to reach me : kevin.mntrc@gmail.com
